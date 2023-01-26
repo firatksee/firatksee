@@ -1,5 +1,4 @@
-<p align="center" width="92">👨‍💻</p>
-<h2 align="center">I'm Fırat 👾</h2>
+<h1 align="center">I'm Fırat 👾👨‍💻</h1>
 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=firatksee&include_all_commits=true&count_private=true&show_icons=true&theme=transparent&hide_border=true" />
