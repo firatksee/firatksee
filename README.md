@@ -1,5 +1,9 @@
 <h1 align="center">I'm Fırat 👾👨‍💻</h1>
 
-<div align="center">(https://github-readme-stats.vercel.app/api?username=firatksee&include_all_commits=true&count_private=true&show_icons=true&theme=transparent&hide_border=true)</div>
+<a href="https://github.com/firatksee?tab=repositories">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=firatksee&include_all_commits=true&count_private=true&show_icons=true&theme=transparent&hide_border=true" >
+</a>
 
-<div align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firatksee&langs_count=10" ></div>
+<a href="https://github.com/firatksee?tab=repositories">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firatksee&langs_count=10" >
+</a>
