@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻</h1>
+<p align="center" width="92">👨‍💻</p>
 <h2 align="center">I'm Fırat 👾</h2>
 
 <a href="">
