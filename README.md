@@ -1,3 +1,6 @@
+<h1 align="center">👨‍💻</h1>
+<h2 align="center">I'm Fırat 👾</h2>
+
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=firatksee&include_all_commits=true&count_private=true&show_icons=true&theme=transparent&hide_border=true" />
 </a>
