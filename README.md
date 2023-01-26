@@ -5,5 +5,5 @@
 </a>
 
 <a href="https://github.com/firatksee?tab=repositories">
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=firatksee&langs_count=10" >
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=firatksee&langs_count=10&layout=compact" >
 </a>
