@@ -1,4 +1,4 @@
-<h1 align="center">I'm Fırat 👾👨‍💻</h1>
+<h1 align="center">Hi, I'm Fırat 👾👨‍💻</h1>
 
 <a href="https://github.com/firatksee?tab=repositories">
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=firatksee&include_all_commits=true&count_private=true&show_icons=true&theme=transparent&hide_border=true" >
