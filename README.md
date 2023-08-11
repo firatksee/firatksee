@@ -11,7 +11,7 @@
 ### Skills
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=python,html,css,js,react,typescript,bootstrap,&theme=dark)](https://vineethtrv.github.io)
+[![My Skills](https://skills.thijs.gg/icons?i=python,js,html,css,react,typescript,bootstrap,java,&theme=dark)](https://vineethtrv.github.io)
 
 
 ### Tools
