@@ -18,3 +18,5 @@
 
 
 [![My Tools](https://skills.thijs.gg/icons?i=vscode,git,firebase)](https://vineethtrv.github.io)
+
+![Profile Views](https://komarev.com/ghpvc/?username=firatksee)
