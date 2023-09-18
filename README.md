@@ -13,13 +13,13 @@
 ### Skills
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=python,java,js,html,css,react,typescript,bootstrap,&theme=dark)](https://vineethtrv.github.io)
+![My Skills](https://skills.thijs.gg/icons?i=python,java,js,html,css,react,typescript,bootstrap,&theme=dark)
 
 
 ### Tools
 
 
-[![My Tools](https://skills.thijs.gg/icons?i=vscode,git,firebase)](https://vineethtrv.github.io)
+![My Tools](https://skills.thijs.gg/icons?i=vscode,git,firebase)
 
 
 ### Language Usage Stats In VS Code
