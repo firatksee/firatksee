@@ -20,3 +20,7 @@
 [![My Tools](https://skills.thijs.gg/icons?i=vscode,git,firebase)](https://vineethtrv.github.io)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=firatksee)
+
+### Language Usage Stats In VSCode
+
+![Language Usage](https://wakatime.com/share/@c6746333-7303-4aba-bc6a-133682e38415/46bf1b45-3080-48c5-bcb2-e4b830a00314.svg)
