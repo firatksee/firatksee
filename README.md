@@ -24,4 +24,4 @@
 
 ### Language Usage Stats In VS Code
 
-![Language Usage](https://wakatime.com/share/@c6746333-7303-4aba-bc6a-133682e38415/46bf1b45-3080-48c5-bcb2-e4b830a00314.svg)
+![Language Usage](https://wakatime.com/share/@c6746333-7303-4aba-bc6a-133682e38415/c2213069-38c6-4010-a7dc-a4ef6c70e7c0.svg)
